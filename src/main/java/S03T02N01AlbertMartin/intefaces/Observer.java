@@ -1,7 +1,7 @@
-package S03T02N01AlbertMartin.Intefaces;
+package S03T02N01AlbertMartin.intefaces;
 
 public interface Observer {
 
-    void update();
-    void setSubject(Subject subject);
+    void update(String stockIndex, String notice);
+
 }

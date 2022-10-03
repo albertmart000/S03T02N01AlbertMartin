@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c8924e-9bbd-420b-9f66-35a5bc1c8abd" name="Changes" comment="" />
+    <list default="true" id="e3c8924e-9bbd-420b-9f66-35a5bc1c8abd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/Agency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/Agency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/BrokerNotice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/BrokerNotice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/intefaces/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/intefaces/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/intefaces/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S03T02N01AlbertMartin/intefaces/Subject.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +24,50 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="S03T02N01AlbertMartin" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="S03T02N01AlbertMartin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="S03T02N01AlbertMartin" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2EqIHwTtl925gnPaQoXYMqRxYk8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,9 +76,43 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/albert/Escritorio/IdeaProjects/ITAcademy Sprint 3/Nivell 1/S03T01N01AlbertMartin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="S03T02N01AlbertMartin.Intefaces" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="S03T02N01AlbertMartin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S03T02N01AlbertMartin.App" />
+      <module name="S03T02N01AlbertMartin.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S03T02N01AlbertMartin.intefaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,8 +121,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663316606508</updated>
+      <workItem from="1663316608034" duration="3953000" />
+      <workItem from="1663335380253" duration="1073000" />
+      <workItem from="1663402322516" duration="90000" />
+      <workItem from="1663402449615" duration="602000" />
+      <workItem from="1663404202495" duration="106000" />
+      <workItem from="1663484198597" duration="4944000" />
+      <workItem from="1663500029122" duration="4687000" />
+      <workItem from="1663518464954" duration="4934000" />
+      <workItem from="1663571177843" duration="13298000" />
+      <workItem from="1663597707885" duration="612000" />
+      <workItem from="1663607018868" duration="87000" />
+      <workItem from="1663612108606" duration="76000" />
+      <workItem from="1663833193206" duration="13516000" />
+      <workItem from="1663857008363" duration="8000" />
+      <workItem from="1663955535561" duration="686000" />
+      <workItem from="1664006009975" duration="10000" />
+      <workItem from="1664006031942" duration="15000" />
+      <workItem from="1664200950913" duration="150000" />
+      <workItem from="1664265338985" duration="8779000" />
+      <workItem from="1664299712222" duration="752000" />
+      <workItem from="1664300488199" duration="3332000" />
+      <workItem from="1664342526854" duration="6533000" />
+      <workItem from="1664359446361" duration="5466000" />
+      <workItem from="1664364986669" duration="307000" />
+      <workItem from="1664376213029" duration="2241000" />
+      <workItem from="1664378489536" duration="6326000" />
+      <workItem from="1664386093003" duration="17000" />
+      <workItem from="1664474396432" duration="36000" />
+      <workItem from="1664516948852" duration="3927000" />
+      <workItem from="1664664369036" duration="1790000" />
+      <workItem from="1664694265696" duration="23000" />
+      <workItem from="1664727442300" duration="3769000" />
+      <workItem from="1664731451863" duration="54000" />
+      <workItem from="1664773842560" duration="3615000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
